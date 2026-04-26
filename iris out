@@ -2,7 +2,7 @@
 -- Generated on 2026-04-26 09:50:28
 
  KeyframeSequence = Instance.new("KeyframeSequence")
-KeyframeSequence.Name = "CapturedAnim"
+KeyframeSequence.Name = "KeyframeSequence"
  cf = CFrame.new
 
 -- Keyframe 1 (Time: 0.019011532887816429)
