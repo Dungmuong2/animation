@@ -1,6 +1,7 @@
 local KeyframeSequence = Instance.new("KeyframeSequence")
 KeyframeSequence.Name = "Captured"
 local cf = CFrame.new
+print('your mom')
 
 -- Keyframe 1 (Time: 0.027038367465138435)
 keyframe1 = Instance.new("Keyframe")
